@@ -7,3 +7,5 @@
 * [04 表达式](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/04%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 
 * [05 语句](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/05%20%E8%AF%AD%E5%8F%A5.md)
+
+* [06 函数](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/06%20%E5%87%BD%E6%95%B0.md)
