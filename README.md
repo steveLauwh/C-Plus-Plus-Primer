@@ -11,3 +11,5 @@
 * [06 函数](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/06%20%E5%87%BD%E6%95%B0.md)
 
 * [07 类](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/07%20%E7%B1%BB.md)
+
+* [08 IO库](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/08%20IO%E5%BA%93.md)
