@@ -9,3 +9,5 @@
 * [05 语句](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/05%20%E8%AF%AD%E5%8F%A5.md)
 
 * [06 函数](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/06%20%E5%87%BD%E6%95%B0.md)
+
+* [07 类](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/07%20%E7%B1%BB.md)
