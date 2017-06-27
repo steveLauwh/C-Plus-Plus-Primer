@@ -19,3 +19,5 @@
 * [10 泛型算法](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/10%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)
 
 * [11 关联容器](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/11%20%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.md)
+
+* [12 动态内存](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/12%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98.md)
