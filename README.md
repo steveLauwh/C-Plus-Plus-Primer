@@ -33,3 +33,5 @@
 * [17 标准库特殊设施](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/17%20%E6%A0%87%E5%87%86%E5%BA%93%E7%89%B9%E6%AE%8A%E8%AE%BE%E6%96%BD.md)
 
 * [18 用于大型程序的工具](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/18%20%E7%94%A8%E4%BA%8E%E5%A4%A7%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%B7%A5%E5%85%B7.md)
+
+* [19 特殊工具与技术](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/19%20%E7%89%B9%E6%AE%8A%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%8A%80%E6%9C%AF.md)
