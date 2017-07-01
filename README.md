@@ -31,3 +31,5 @@
 * [16 模板与泛型编程](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/16%20%E6%A8%A1%E6%9D%BF%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B.md)
 
 * [17 标准库特殊设施](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/17%20%E6%A0%87%E5%87%86%E5%BA%93%E7%89%B9%E6%AE%8A%E8%AE%BE%E6%96%BD.md)
+
+* [18 用于大型程序的工具](https://github.com/steveLauwh/C-Plus-Plus-Primer/blob/master/18%20%E7%94%A8%E4%BA%8E%E5%A4%A7%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%B7%A5%E5%85%B7.md)
