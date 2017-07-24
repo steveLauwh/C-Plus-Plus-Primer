@@ -38,4 +38,5 @@
 
 ## 参考资料
 
+* C++ Primer(第五版)
 * http://en.cppreference.com/w/
