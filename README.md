@@ -40,3 +40,4 @@
 
 * C++ Primer(第五版)
 * http://en.cppreference.com/w/
+* [Google 开源项目 C++ 风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
