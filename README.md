@@ -40,4 +40,6 @@
 
 * C++ Primer(第五版)
 * http://en.cppreference.com/w/
+* https://msdn.microsoft.com/zh-cn/library/f1dtts6s(v=vs.100).aspx
+* http://www.cplusplus.com/reference/
 * [Google 开源项目 C++ 风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
